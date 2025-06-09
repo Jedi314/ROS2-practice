@@ -1,0 +1,11 @@
+/**:
+  ros__parameters:
+    update_duration: 0.05
+    base_frame_id: "base_footprint"
+    map_frame_id: "reproducing_map"
+    odom_frame_id: "odom"
+    scan_frame_id: "base_laser"
+    enable_stamped_cmd_vel: false
+    scan_publish_dur: 0.125
+    publish_map_odom_tf: false
+    publish_clock: false
